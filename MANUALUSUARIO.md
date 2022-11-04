@@ -36,7 +36,7 @@ ___
 ___
 ***Ingreso de un administrador***
 #### Un usuario administrador ingresa de la misma manera que un empleado en la pantalla aparece un input lo cual indica un espacio de usuario y otro para password, un botón en la parte de abajo que indica “Aceptar” para continuar el programa si este es correcto y en caso de ser incorrecto se veria como se mostró anteriormente. Se ingresan datos de forma correcta realiza autenticacion e ingresa de forma correcta. 
-![login](https://drive.google.com/file/d/16oWB3yFpjIw2CODWX-WwCkM67LsDu2c3/view?usp=sharing)
+![login](https://github.com/Keillie/Proyecto-3-DW/blob/main/src/assets/adminlogueo.png)
 #### En esta area encontramos el area de reporteria el cual se genera al dar clic en un botón según nosotros indiquemos podemos generar el general de empleados, de llegadas tarde, de salidas anticipadas o antes de tiempo, etc. También veremos el historial de empleados y se presenta una tabla con el de id de cada empleado, nombres, apellidos, y opciones donde se encuentran tres “Ver horarios”, “Editar”, Eliminar” de las acciones que podemos realizar. Nos indicará un mensaje de bienvenido al sistema al ser todo correcto. 
 ![login](src\assets\historial.jpg)
 #### Nos permite ver horarios de un usuario en especifico incluyendo el del mismo admin.
